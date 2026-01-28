@@ -97,16 +97,16 @@ const skillData = [
         title: 'tools',
         data: [
             {
-                imgPath: '/about/vscode.svg',
+                imgPath: '/about/vscode 1.svg',
             },
             {
-                imgPath: '/about/figma.svg',
+                imgPath: '/about/figma 1.svg',
             },
             {
-                imgPath: '/about/notion.svg',
+                imgPath: '/about/notion 1.svg',
             },
             {
-                imgPath: '/about/wordpress.svg',
+                imgPath: '/about/wordpress 1.svg',
             },
         ]
     }

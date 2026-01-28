@@ -22,11 +22,11 @@ const icons = [
     name: <RiGithubFill />,
   },
   {
-    path: '/',
+    path: 'https://youtube.com/@rameesraja-m?si=FYQvdGBzZJZqz7IJ',
     name: <RiYoutubeFill />,
   },
   {
-    path: '/',
+    path: 'https://www.instagram.com/ramees_raja_m',
     name: <RiInstagramFill />,
   },
   {

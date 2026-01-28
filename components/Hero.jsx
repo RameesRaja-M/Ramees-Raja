@@ -25,10 +25,13 @@ const Hero = () => {
           </p>
           {/* Buttons */}
           <div className="flex flex-col gap-y-3 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12">
-            <Link href='/contact'>
+            <Link href='/contact' target="_blank">
               <Button className="gap-x-2">Contact Me <Send size={18} /></Button>
             </Link>
+            <Link href='https://drive.google.com/file/d/1u29_omjATZy6fArDqRphufy8LK-iaDF6/view?usp=drive_link' target="_blank">
             <Button variant="secondary" className="gap-x-2">Downoad CV <Download size={18} /></Button>
+            </Link>
+            
           </div>
           {/* Socials */}
           <Socials containerStyles='flex gap-x-6 mx-auto xl:mx-0' iconsStyles='text-foreground text-[22px] hover:text-primary transition-all' />
