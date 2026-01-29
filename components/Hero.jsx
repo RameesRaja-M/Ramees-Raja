@@ -28,7 +28,7 @@ const Hero = () => {
             <Link href='/contact' target="_blank">
               <Button className="gap-x-2">Contact Me <Send size={18} /></Button>
             </Link>
-            <Link href='https://drive.google.com/file/d/1u29_omjATZy6fArDqRphufy8LK-iaDF6/view?usp=drive_link' target="_blank">
+            <Link href='https://drive.google.com/file/d/1s_h6_iRylpxelh3RMnbqrN3ENhhxXLzR/view?usp=drive_link' target="_blank">
             <Button variant="secondary" className="gap-x-2">Downoad CV <Download size={18} /></Button>
             </Link>
             
@@ -55,5 +55,6 @@ const Hero = () => {
     </div>
   </section>
 }
+
 
 export default Hero
