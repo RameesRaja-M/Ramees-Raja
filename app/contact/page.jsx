@@ -16,8 +16,9 @@ const Contact = () => {
               <span className='w-7.5 h-0.5 bg-primary'></span>
               Say Hello👋
             </div>
-            <h1 className='h1 max-w-md mb-8'>Let's Work Together</h1>
-            <p className='subtitle max-w-100'>Let’s connect and build something impactful together — I’m ready to bring your ideas to life.</p>
+            <h1 className='h1 max-w-md mb-8'>Grow Your Business.</h1>
+            <p className='subtitle max-w-100'>Tell me about your idea, business, or project and I’ll help you turn it into a fast, professional website that looks great, works smoothly, and helps you attract more customers online.
+</p>
           </div>
           {/* Illustrator */}
           <div className='hidden xl:flex w-full bg-contact-illustration-light dark:bg-contact-illustration-dark bg-contain bg-top bg-no-repeat'></div>
@@ -29,7 +30,7 @@ const Contact = () => {
             {/* Mail */}
             <div className='flex items-center gap-x-8'>
               <MailIcon size={18} className='text-primary' />
-              <div>rameeswebdev@gmail.com</div>
+              <div>rameesrajafreelancer@gmail.com</div>
             </div>
             {/* Address */}
             <div className='flex items-center gap-x-8'>

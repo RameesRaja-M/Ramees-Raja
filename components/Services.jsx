@@ -7,12 +7,12 @@ const servicesData = [
   {
     icon: <GanttChartSquareIcon size={72} strokeWidth={0.8} />,
     title: 'Web Development',
-    description: 'Building fast, responsive, and scalable websites using modern web technologies with clean and maintainable code.'
+    description: 'I build fast, modern, responsive websites with clean, maintainable code that drives growth and engages users.'
   },
   {
     icon: <Blocks size={72} strokeWidth={0.8} />,
     title: 'App Development',
-    description: 'Developing high-performance mobile and web applications focused on usability, performance, and real-world needs.'
+    description: 'I develop high-performance mobile and web apps focused on usability, speed, and real-world business needs.'
   }, {
     icon: <Gem size={72} strokeWidth={0.8} />,
     title: 'Teaching',

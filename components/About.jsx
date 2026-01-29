@@ -61,12 +61,12 @@ const qualificationData = [
             {
                 company: 'Error Makes Clever',
                 role: 'Full Stack Developer - Internship',
-                years: 'Feb 2025 - Apr 2025'
+                years: 'Jan 2025 - Mar 2025'
             },
             {
                 company: 'Error Makes Clever',
                 role: 'Full Stack Developer - Bootcamp',
-                years: 'Sep 2024 - Jan 2025'
+                years: 'Sep 2024 - Dec 2024'
             },
         ]
     }
@@ -118,7 +118,7 @@ const About = () => {
     };
 
     return (
-        <section className='xl:h-215 pb-12 py-12 xl:py-24'>
+        <section className='xl:h-215 pb-12 py-28 xl:py-24'>
             <div className='max-w-7xl mx-auto px-4'>
                 <h2 className='section-title mb-8 xl:mb-16 text-center mx-auto'>About</h2>
                 <div className='flex flex-col xl:flex-row'>
@@ -140,8 +140,7 @@ const About = () => {
                                 <TabsContent value='personal'>
                                     <div className='text-center xl:text-left'>
                                         <h3 className='h3 mb-4'>Full-Stack MERN Developer</h3>
-                                        <p className='subtitle mx-auto max-w-xl xl:mx-0'>Full-stack MERN Developer with hands-on internship experience,
-                                            strong in JavaScript, React, Node.js, Express, and MongoDB.
+                                        <p className='subtitle mx-auto max-w-xl xl:mx-0'>I create modern, responsive websites and web apps that help businesses grow, reach more customers, and shine online. I deliver fast, reliable, and tailored solutions for startups, small businesses, and organizations.
                                         </p>
                                         {/* Icons */}
                                         <div className='grid xl:grid-cols-2 gap-4 mb-12'>

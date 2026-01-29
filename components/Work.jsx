@@ -21,7 +21,7 @@ const projectData = [
     {
         image: '/work/doctor.png',
         category: 'Full-Stack',
-        name: 'Doctor Appointment Booking Website',
+        name: 'Doc Appointment Booking Website',
         description: 'Mongo DB, Express JS, React JS, Node JS',
         link: 'https://prescripto-frontend-hhe4.onrender.com',
         github: 'https://github.com/RameesRaja-M/Prescripto'
@@ -98,8 +98,8 @@ const Work = () => {
             <div className='max-w-7xl mx-auto px-4'>
                 {/* Text */}
                 <div className='max-w-100 mx-auto xl:mx-0 text-center xl:text-left mb-12 xl:h-100 flex flex-col justify-center items-center xl:items-start'>
-                    <h2 className='section-title mb-4'>Latest Projects</h2>
-                    <p className='subtitle mb-8'>Projects showcasing real-world full-stack solutions and clean user experiences.</p>
+                    <h2 className='section-title mb-4'>Featured Work</h2>
+                    <p className='subtitle mb-8'>Showcasing real-world full-stack projects with clean, intuitive user experiences that solve real business problems.</p>
                     <Link href='/projects'>
                         <Button>All Projects</Button>
                     </Link>

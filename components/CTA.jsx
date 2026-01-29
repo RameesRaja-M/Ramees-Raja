@@ -8,9 +8,9 @@ const CTA = () => {
         <section className='py-24 bg-tertiary dark:bg-secondary/40'>
             <div className='max-w-7xl mx-auto px-4'>
                 <div className='flex flex-col items-center'>
-                    <h2 className='h2 max-w-xl text-center mb-8'>Prepared to turn your ideas into reality? I'here to help</h2>
+                    <h2 className='h2 max-w-xl text-center mb-8'>Have an idea? I’m here to help you turn it into a modern website that delivers real results.</h2>
                     <Link href='/contact'>
-                        <Button>Contact Me</Button>
+                        <Button>Get a Free Consultation</Button>
                     </Link>
                 </div>
             </div>

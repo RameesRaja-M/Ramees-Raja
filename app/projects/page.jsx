@@ -9,8 +9,8 @@ const projectData = [
   {
     image: '/work/doctor.png',
     category: 'Full-Stack',
-    name: 'Doctor Appointment Booking Website',
-    description: 'Mongo DB, Express JS, React JS, Node JS',
+    name: 'Appointment Booking Website',
+    description: 'Helps clinics automate appointments and manage patients online.',
     link: 'https://prescripto-frontend-hhe4.onrender.com',
     github: 'https://github.com/RameesRaja-M/Prescripto'
   },
@@ -18,7 +18,7 @@ const projectData = [
     image: '/work/task.png',
     category: 'Full-Stack',
     name: 'Task Manager Website',
-    description: 'Mongo DB, Express JS, React JS, Node JS',
+    description: 'Helps individuals and teams organize work and finish tasks on time.',
     link: 'https://task-manager-frontend-0nt3.onrender.com/home',
     github: 'https://github.com/RameesRaja-M/Task-Manager'
   },
@@ -26,7 +26,7 @@ const projectData = [
     image: '/work/blog.png',
     category: 'Full-Stack',
     name: 'Blog Website',
-    description: 'Mongo DB, Express JS, React JS, Node JS',
+    description: 'Helps creators and businesses share content and grow online presence.',
     link: 'https://blogwhiz-website-frontend.vercel.app/home',
     github: 'https://github.com/RameesRaja-M/blogwhiz-website'
   },
@@ -34,7 +34,7 @@ const projectData = [
     image: '/work/bulk.png',
     category: 'Full-Stack',
     name: 'Bulk Mailer Website',
-    description: 'Mongo DB, Express JS, React JS, Node JS.',
+    description: 'Helps businesses send bulk emails and reach their audience in minutes.',
     link: 'https://mailwhiz-frontend.vercel.app/',
     github: 'https://github.com/RameesRaja-M/Mailwhiz-Bulk-Mailer'
   },
@@ -42,7 +42,7 @@ const projectData = [
     image: '/work/nostra.png',
     category: 'Next.JS',
     name: 'Nostra E-Commerce Website',
-    description: 'HTML, CSS, Tailwind CSS, JavaScript, Next JS.',
+    description: 'Helps businesses sell products online with a fast, modern shopping experience.',
     link: 'https://github.com/RameesRaja-M/Nostra-Website',
     github: 'https://rameesraja-m.github.io/Nostra-Website/'
   },
@@ -50,7 +50,7 @@ const projectData = [
     image: '/work/trip.png',
     category: 'Next.JS',
     name: 'Trip Advisor Clone Website',
-    description: 'HTML, CSS, Tailwind CSS, JavaScript, Next JS..',
+    description: 'Helps users discover places, plan trips, and explore destinations easily.',
     link: 'https://github.com/RameesRaja-M/Trip-Advisor-Clone',
     github: 'https://rameesraja-m.github.io/Trip-Advisor-Clone/'
   },
