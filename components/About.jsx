@@ -18,7 +18,7 @@ const infoData = [
     },
     {
         icon: <MailIcon size={20} />,
-        text: 'rameeswebdev@gmail.com'
+        text: 'rameesrajafreelancer@gmail.com'
     },
     {
         icon: <Calendar size={20} />,
@@ -268,5 +268,6 @@ const About = () => {
         </section>
     )
 }
+
 
 export default About
